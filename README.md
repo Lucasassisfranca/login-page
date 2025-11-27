@@ -1,22 +1,15 @@
-Tela de Login
+# Projeto Tela Login
 
-Vizualizar - https://lucasassisfranca.github.io/login-page/
+## Descrição
+Este projeto é um site de login, criado com HTML e CSS, com o objetivo de treinar a criação e estilização de formulários. Nele pratiquei campos de entrada, botões, validação visual e o uso de CSS externo para tornar o formulário responsivo e agradável visualmente.
 
-Projeto simples de tela de login, desenvolvido com HTML e CSS.
-O objetivo foi praticar a criação de formulários e estilização básica de páginas web.
+## Tecnologias utilizadas
+- HTML5
+- CSS3
 
-🧠 Tecnologias utilizadas
+## Acesso ao projeto
+Você pode acessar o site clicando no link abaixo:
 
-HTML
+👉 [Clique aqui para abrir o Projeto Tela Login](https://lucasassisfranca.github.io/login-page/)
 
-CSS
 
-📁 Estrutura
-
-index.html — estrutura da página
-
-style.css — estilos e layout da tela de login
-
-💡 Sobre o projeto
-
-Tela estática criada apenas para estudo e prática de front-end.
